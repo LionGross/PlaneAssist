@@ -1,5 +1,4 @@
 # PlaneAssist
-#### Video Demo:  <https://youtu.be/ALg8UoE034k?si=mZN_Eq5GVpWrbnxa>
 ## Table of Contents
 1. [Project Description](#project-description)
     - [Disclaimer](#disclaimer)
