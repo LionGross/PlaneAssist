@@ -31,7 +31,8 @@
     - [terminate()](#terminate)
 
 ## Project Description:
-PlaneAssist is a program that helps you calculate key parameters for aircraft design. 
+PlaneAssist runs in your terminal and helps you calculate key parameters for aircraft design. 
+
 ### Disclaimer
 This Python program is provided for educational
 purposes only. It calculates the wing area, stall speed,
