@@ -1,5 +1,5 @@
 # PlaneAssist
-![Image not available](PlaneAssist_Banner.png)
+![Image not available](Images/PlaneAssist_Banner.png)
 ## Table of Contents
 1. [Project Description](#project-description)
     - [Disclaimer](#disclaimer)
