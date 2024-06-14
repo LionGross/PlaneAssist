@@ -113,6 +113,8 @@ Language tags for some popular (but not all) supported languages:
 If you run the program in a language other than English
 the program can run slower (depending on your Internet speed) due to the translation process.
 
+As stated in the disclaimer, if you run the program in a language other than English, there may be translation errors, so be aware of that.
+
 Besides the languages listed above, any language you can translate with Google Translate will work with this program,
 if you have the correct language code (that's why I included both language codes for Chinese).
 
